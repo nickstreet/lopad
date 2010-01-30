@@ -1,2 +1,4 @@
 # vim swap
 .*.sw?
+.DS_Store
+
